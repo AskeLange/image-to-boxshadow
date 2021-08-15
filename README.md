@@ -3,8 +3,8 @@
 Turns images (jpeg, png, whatever..) into pure css using box-shadows.<br />
 The result can either be returned as a string, or saved directly to a file.
 
-[GitHub page](https://github.com/AskeLange/image-to-boxshadow "GitHub")
-[Node Package Manager page](https://www.npmjs.com/package/image-to-boxshadow "NPM")
+[GitHub](https://github.com/AskeLange/image-to-boxshadow "GitHub page")<br />
+[NPM](https://www.npmjs.com/package/image-to-boxshadow "Node Package Manager page")
 
 ### Installing
 
