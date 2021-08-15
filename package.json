@@ -1,15 +1,29 @@
 {
-  "name": "imagetoboxshadow",
+  "name": "image-to-boxshadow",
   "version": "1.0.0",
-  "description": "",
+  "description": "Turns images into pure css, using boxshadows.",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "get-image-data": "github:michaelrhodes/get-image-data#5.0.0",
     "sharp": "^0.25.4"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AskeLange/image-to-boxshadow.git"
+  },
+  "keywords": [
+    "css-only",
+    "pure-css",
+    "box-shadows",
+    "image-to-boxshadows"
+  ],
+  "author": "Aske K. Lange",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AskeLange/image-to-boxshadow/issues"
+  },
+  "homepage": "https://github.com/AskeLange/image-to-boxshadow#readme"
 }
