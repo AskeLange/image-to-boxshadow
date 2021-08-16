@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Turns images into pure css, using boxshadows.",
   "main": "main.js",
-  "dependencies": {
-    "get-image-data": "github:michaelrhodes/get-image-data#5.0.0",
-    "sharp": "^0.25.4"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/AskeLange/image-to-boxshadow/issues"
   },
-  "homepage": "https://github.com/AskeLange/image-to-boxshadow#readme"
+  "homepage": "https://github.com/AskeLange/image-to-boxshadow#readme",
+  "dependencies": {
+    "get-image-data": "^5.0.0"
+  }
 }
