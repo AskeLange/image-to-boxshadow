@@ -1,6 +1,6 @@
 # Image to box shadows.
 
-Turns images (jpeg, png, whatever..) into pure css using box-shadows.<br />
+Turns images (jpeg, png, whatever..) into pure css using box-shadows - because... Why not?.<br />
 The result can either be returned as a string, or saved directly to a file.
 
 [GitHub](https://github.com/AskeLange/image-to-boxshadow "GitHub page")<br />
