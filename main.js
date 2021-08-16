@@ -54,7 +54,9 @@ exports.imageToBoxShadow = ((image_path, element_name='element', result_path=nul
           if (err) { reject (err); }
           else { resolve (response); }
         });
-      } resolve (response);
+      } else {
+       resolve (response);
+      }
 
     });
   })
